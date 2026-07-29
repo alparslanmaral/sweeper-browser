@@ -377,7 +377,12 @@
       "powerType": "LPG",
       "price": "",
       "sharepointUrl": "",
-      "images": [],
+      "images": [
+        "img/IMG_3080.jpg",
+        "img/IMG_3081.jpg",
+        "img/IMG_3082.jpg",
+        "img/IMG_3083.jpg"
+      ],
       "notes": "",
       "dateAdded": "2026-07-29T01:09:57.114223Z"
     },
