@@ -200,6 +200,16 @@ body {
 .asc-lightbox-thumb.active { opacity: 1; border-color: var(--teal-light); }
 .asc-lightbox-thumb:hover { opacity: 0.85; }
 
+.asc-download-btn {
+  flex-shrink: 0; display: flex; align-items: center; justify-content: center; gap: 8px;
+  margin: 0 16px 14px; padding: 11px 18px; border-radius: var(--radius-sm); border: 1px solid var(--glass-border);
+  background: rgba(255,255,255,0.05); color: var(--ink); font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 13px; font-weight: 700; cursor: pointer; transition: border-color .18s, background .18s, color .18s;
+}
+.asc-download-btn:hover:not(:disabled) { border-color: var(--teal-light); color: var(--teal-light); background: rgba(20,198,212,0.08); }
+.asc-download-btn:disabled { opacity: 0.55; cursor: default; }
+.asc-download-btn.hidden { display: none; }
+
 .asc-close-btn {
   position: absolute; top: 16px; right: 16px; z-index: 10; width: 40px; height: 40px; border-radius: 50%;
   background: rgba(10,11,13,0.7); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.2); color: #fff;
@@ -232,6 +242,9 @@ body {
 .asc-lightbox-spec-item { display: flex; flex-direction: column; gap: 6px; padding-bottom: 16px; border-bottom: 1px solid var(--glass-border); }
 .asc-lightbox-spec-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-faint); }
 .asc-lightbox-spec-value { font-family: 'JetBrains Mono', monospace; font-size: 15px; font-weight: 600; color: var(--ink); }
+
+.asc-lightbox-notes { display: none; flex-direction: column; gap: 8px; }
+.asc-lightbox-notes-text { margin: 0; font-size: 14px; line-height: 1.6; color: var(--ink-dim); white-space: pre-line; }
 
 .asc-lightbox-price-box {
   flex-shrink: 0; display: flex; align-items: center; justify-content: space-between; gap: 12px;
@@ -359,6 +372,10 @@ body {
         </button>
       </div>
       <div class="asc-lightbox-thumbs" id="asc-lightbox-thumbs"></div>
+      <button class="asc-download-btn" id="asc-download-btn" type="button">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none"><path d="M12 3V15M12 15L7 10M12 15L17 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 19H20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <span id="asc-download-btn-label">Download Photos</span>
+      </button>
     </div>
 
     <div class="asc-lightbox-details">
@@ -368,6 +385,10 @@ body {
           <h3 class="asc-lightbox-title" id="asc-lightbox-name"></h3>
         </div>
         <div class="asc-lightbox-spec-grid" id="asc-lightbox-specs"></div>
+        <div class="asc-lightbox-notes" id="asc-lightbox-notes">
+          <span class="asc-lightbox-spec-label">Notes</span>
+          <p class="asc-lightbox-notes-text" id="asc-lightbox-notes-text"></p>
+        </div>
       </div>
       <div class="asc-lightbox-price-box">
         <span class="asc-lightbox-price-label">Price</span>
@@ -377,6 +398,7 @@ body {
   </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
 <script>
 (function () {
   const DATA_URL = 'data/machines.json';
@@ -530,6 +552,49 @@ body {
   const lbCategory = document.getElementById('asc-lightbox-category');
   const lbSpecs = document.getElementById('asc-lightbox-specs');
   const lbPrice = document.getElementById('asc-lightbox-price');
+  const lbNotes = document.getElementById('asc-lightbox-notes');
+  const lbNotesText = document.getElementById('asc-lightbox-notes-text');
+  const lbDownloadBtn = document.getElementById('asc-download-btn');
+  const lbDownloadLabel = document.getElementById('asc-download-btn-label');
+
+  function slugify(str) {
+    return String(str || 'machine').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') || 'machine';
+  }
+
+  async function downloadPhotos() {
+    const m = lightbox.machine;
+    const images = (m && m.images) || [];
+    if (!images.length || lbDownloadBtn.disabled) return;
+    lbDownloadBtn.disabled = true;
+    lbDownloadLabel.textContent = 'Preparing…';
+    try {
+      const zip = new JSZip();
+      const base = slugify(m.name) + (m.serial ? '-' + slugify(m.serial) : '');
+      await Promise.all(images.map(async (path, i) => {
+        const res = await fetch(path);
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const blob = await res.blob();
+        const ext = (path.split('.').pop() || 'jpg').split(/[?#]/)[0];
+        zip.file(`${base}-${i + 1}.${ext}`, blob);
+      }));
+      const content = await zip.generateAsync({ type: 'blob' });
+      const url = URL.createObjectURL(content);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `${base}-photos.zip`;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 4000);
+    } catch (err) {
+      alert("Couldn't download photos: " + err.message);
+    } finally {
+      lbDownloadBtn.disabled = false;
+      lbDownloadLabel.textContent = `Download Photos (${images.length})`;
+    }
+  }
+
+  lbDownloadBtn.addEventListener('click', downloadPhotos);
 
   function specItem(label, value) {
     return `<div class="asc-lightbox-spec-item"><span class="asc-lightbox-spec-label">${escapeHtml(label)}</span><span class="asc-lightbox-spec-value">${escapeHtml(value)}</span></div>`;
@@ -573,7 +638,17 @@ body {
     if (m.powerType && m.powerType !== 'Not specified') specs.push(specItem('Power', m.powerType));
     lbSpecs.innerHTML = specs.join('') || `<div class="asc-lightbox-spec-item"><span class="asc-lightbox-spec-value" style="color:var(--ink-faint)">No additional details available</span></div>`;
 
+    if (m.notes && m.notes.trim()) {
+      lbNotesText.textContent = m.notes.trim();
+      lbNotes.style.display = 'flex';
+    } else {
+      lbNotes.style.display = 'none';
+    }
+
     lbPrice.textContent = formatPrice(m.price);
+
+    lbDownloadBtn.classList.toggle('hidden', images.length === 0);
+    lbDownloadLabel.textContent = images.length ? `Download Photos (${images.length})` : 'Download Photos';
 
     lbThumbs.style.display = images.length > 1 ? 'flex' : 'none';
     lbThumbs.innerHTML = images.map((img, i) =>
