@@ -67,6 +67,104 @@
       "notes": "2015 Model"
     },
 
+        {
+      "id": "M3",
+      "name": "M3",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "2155",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2022 Model"
+    },
+
+    {
+      "id": "T3",
+      "name": "T3",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "NA",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2015 Model"
+    },
+                {
+      "id": "M8",
+      "name": "M8",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "0132",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2015 Model"
+    },
+
+                    {
+      "id": "E110",
+      "name": "E110",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "1158",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": ""
+    },
+
+                        {
+      "id": "M6",
+      "name": "M6",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "0110",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2017 Model"
+    },
   {
   "id": "M3",
   "name": "M3",
@@ -186,6 +284,25 @@
   "notes": ""
 },
 
+                            {
+      "id": "TR",
+      "name": "TR",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "76041",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": " Model"
+    },
 {
   "id": "M6",
   "name": "M6",
@@ -216,6 +333,45 @@
   "dateAdded": "2026-07-28T00:00:00.000Z",
   "notes": "2017 Model"
 },
+
+                                {
+      "id": "M3",
+      "name": "M3",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "5622",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2014 Model"
+    },
+                                    {
+      "id": "E51",
+      "name": "E51 Base",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "2129",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": " Model"
+    },
 {
   "id": "TR",
   "name": "TR",
@@ -307,6 +463,46 @@
       "state": "Sydney",
       "category": "Sweeper",
       "serial": "NA",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2015 Model"
+    },
+
+    {
+      "id": "M6",
+      "name": "M6 LPG",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "0192",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2013 Model"
+    },
+
+        {
+      "id": "M6 EB",
+      "name": "M6 EB",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "1269",
       "hours": "NA",
       "powerType": "Not specified",
       "price": "10000",
@@ -413,6 +609,25 @@
       "notes": "2019 Model"
     },
 
+        {
+      "id": "M3",
+      "name": "M3",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "5081",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2011 Model"
+    },
 {
   "id": "M3",
   "name": "M3",
@@ -455,6 +670,26 @@
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2013 Model"
+    },
+
+        {
+      "id": "M3",
+      "name": "M3",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "0144",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2014 Model"
     },
 {
   "id": "M3",
@@ -501,6 +736,65 @@
       "notes": "2013 Model"
     },
 
+        {
+      "id": "M3",
+      "name": "M3",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "4668",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2008 Model"
+    },
+
+        {
+      "id": "M5",
+      "name": "M5",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "833",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2011 Model"
+    },
+
+        {
+      "id": "M6",
+      "name": "M6",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "1239",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2018 Model"
+    },
 {
   "id": "M3",
   "name": "M3",
@@ -554,6 +848,25 @@
   "notes": "2011 Model"
 },
 
+    {
+      "id": "M1",
+      "name": "M1",
+      "state": "Sydney",
+      "category": "Scrubber",
+      "serial": "6696",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/IMG_8942.jpeg",
+        "img/IMG_8947.jpeg",
+        "img/IMG_8945.jpeg",
+        "img/IMG_8948.jpeg"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2019 Model"
+    },
 {
   "id": "M6",
   "name": "M6",
@@ -617,7 +930,7 @@
     "dateAdded": "2026-07-28T00:00:00.000Z",
     "notes": "2019 Model"
   },
-    
+
 
      {
       "id": "m_seedP3",
@@ -636,7 +949,7 @@
         "img/IMG_8940.jpeg",
         "img/IMG_8941.jpeg"
 
-        
+
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
@@ -659,7 +972,7 @@
         "img/IMG_8954.jpeg",
         "img/IMG_8955.jpeg"
 
-        
+
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
@@ -682,7 +995,7 @@
         "img/IMG_8960.jpeg",
         "img/IMG_8961.jpeg"
 
-        
+
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
@@ -706,7 +1019,7 @@
         "img/IMG_8973.jpeg",
         "img/IMG_8977.jpeg"
 
-        
+
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "M3 1201"
@@ -730,7 +1043,7 @@
         "img/IMG_8963.jpeg",
         "img/IMG_8968.jpeg"
 
-        
+
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
@@ -752,7 +1065,7 @@
         "img/IMG_8972.jpeg",
         "img/IMG_8969.jpeg"
 
-        
+
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "1150 Model. No Hour Meter"
