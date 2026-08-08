@@ -46,8 +46,7 @@
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
     },
-
-        {
+    {
       "id": "M3",
       "name": "M3",
       "state": "Sydney",
@@ -66,8 +65,7 @@
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2015 Model"
     },
-
-        {
+    {
       "id": "M3",
       "name": "M3",
       "state": "Sydney",
@@ -77,23 +75,22 @@
       "powerType": "Not specified",
       "price": "10000",
       "sharepointUrl": "",
-"images": [
-  "img/DSC05166.webp",
-  "img/DSC05167.webp",
-  "img/DSC05168.webp",
-  "img/DSC05169.webp",
-  "img/DSC05170.webp",
-  "img/DSC05171.webp",
-  "img/DSC05172.webp",
-  "img/DSC05173.webp",
-  "img/DSC05174.webp",
-  "img/DSC05175.webp",
-  "img/DSC05176.webp"
-],
+      "images": [
+        "img/DSC05166.webp",
+        "img/DSC05167.webp",
+        "img/DSC05168.webp",
+        "img/DSC05169.webp",
+        "img/DSC05170.webp",
+        "img/DSC05171.webp",
+        "img/DSC05172.webp",
+        "img/DSC05173.webp",
+        "img/DSC05174.webp",
+        "img/DSC05175.webp",
+        "img/DSC05176.webp"
+      ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2022 Model"
     },
-
     {
       "id": "T3",
       "name": "T3",
@@ -113,7 +110,7 @@
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2015 Model"
     },
-                {
+    {
       "id": "M8",
       "name": "M8",
       "state": "Sydney",
@@ -127,13 +124,37 @@
         "img/IMG_8942.webp",
         "img/IMG_8947.webp",
         "img/IMG_8945.webp",
-        "img/IMG_8948.webp"
+        "img/IMG_8948.webp",
+        "img/DSC05192.webp",
+        "img/DSC05193.webp",
+        "img/DSC05194.webp",
+        "img/DSC05195.webp",
+        "img/DSC05196.webp",
+        "img/DSC05197.webp",
+        "img/DSC05198.webp",
+        "img/DSC05199.webp",
+        "img/DSC05200.webp",
+        "img/DSC05201.webp",
+        "img/DSC05202.webp",
+        "img/DSC05203.webp",
+        "img/DSC05204.webp",
+        "img/DSC05205.webp",
+        "img/DSC05206.webp",
+        "img/DSC05207.webp",
+        "img/DSC05208.webp",
+        "img/DSC05209.webp",
+        "img/DSC05210.webp",
+        "img/DSC05211.webp",
+        "img/DSC05212.webp",
+        "img/DSC05213.webp",
+        "img/DSC05214.webp",
+        "img/DSC05216.webp",
+        "img/DSC05217.webp"
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
-      "notes": "2015 Model"
+      "notes": ""
     },
-
-                    {
+    {
       "id": "E110",
       "name": "E110",
       "state": "Sydney",
@@ -147,13 +168,25 @@
         "img/IMG_8942.webp",
         "img/IMG_8947.webp",
         "img/IMG_8945.webp",
-        "img/IMG_8948.webp"
+        "img/IMG_8948.webp",
+        "img/DSC05219.webp",
+        "img/DSC05220.webp",
+        "img/DSC05221.webp",
+        "img/DSC05222.webp",
+        "img/DSC05223.webp",
+        "img/DSC05224.webp",
+        "img/DSC05225.webp",
+        "img/DSC05226.webp",
+        "img/DSC05227.webp",
+        "img/DSC05228.webp",
+        "img/DSC05229.webp",
+        "img/DSC05230.webp",
+        "img/DSC05231.webp"
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
     },
-
-                        {
+    {
       "id": "M6",
       "name": "M6",
       "state": "Sydney",
@@ -167,131 +200,51 @@
         "img/IMG_8942.webp",
         "img/IMG_8947.webp",
         "img/IMG_8945.webp",
-        "img/IMG_8948.webp"
+        "img/IMG_8948.webp",
+        "img/DSC05233.webp",
+        "img/DSC05234.webp",
+        "img/DSC05235.webp",
+        "img/DSC05236.webp",
+        "img/DSC05237.webp",
+        "img/DSC05238.webp",
+        "img/DSC05239.webp",
+        "img/DSC05240.webp",
+        "img/DSC05241.webp",
+        "img/DSC05242.webp",
+        "img/DSC05243.webp",
+        "img/DSC05244.webp",
+        "img/DSC05245.webp",
+        "img/DSC05247.webp",
+        "img/DSC05248.webp"
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2017 Model"
     },
-  {
-  "id": "M3",
-  "name": "M3",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "2155",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05166.webp",
-    "img/DSC05167.webp",
-    "img/DSC05168.webp",
-    "img/DSC05169.webp",
-    "img/DSC05170.webp",
-    "img/DSC05171.webp",
-    "img/DSC05172.webp",
-    "img/DSC05173.webp",
-    "img/DSC05174.webp",
-    "img/DSC05175.webp",
-    "img/DSC05176.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2022 Model"
-},
-{
-  "id": "T3",
-  "name": "T3",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "194",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-"images": [
-  "img/DSC05182.webp",
-  "img/DSC05183.webp",
-  "img/DSC05184.webp",
-  "img/DSC05185.webp",
-  "img/DSC05186.webp",
-  "img/DSC05187.webp",
-  "img/DSC05188.webp",
-  "img/DSC05189.webp",
-  "img/DSC05190.webp"
-],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": ""
-},
-{
-  "id": "M8",
-  "name": "M8",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "0132",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-"images": [
-  "img/DSC05192.webp",
-  "img/DSC05193.webp",
-  "img/DSC05194.webp",
-  "img/DSC05195.webp",
-  "img/DSC05196.webp",
-  "img/DSC05197.webp",
-  "img/DSC05198.webp",
-  "img/DSC05199.webp",
-  "img/DSC05200.webp",
-  "img/DSC05201.webp",
-  "img/DSC05202.webp",
-  "img/DSC05203.webp",
-  "img/DSC05204.webp",
-  "img/DSC05205.webp",
-  "img/DSC05206.webp",
-  "img/DSC05207.webp",
-  "img/DSC05208.webp",
-  "img/DSC05209.webp",
-  "img/DSC05210.webp",
-  "img/DSC05211.webp",
-  "img/DSC05212.webp",
-  "img/DSC05213.webp",
-  "img/DSC05214.webp",
-  "img/DSC05216.webp",
-  "img/DSC05217.webp"
-],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": ""
-},
-{
-  "id": "E110",
-  "name": "E110",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "1158",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-"images": [
-  "img/DSC05219.webp",
-  "img/DSC05220.webp",
-  "img/DSC05221.webp",
-  "img/DSC05222.webp",
-  "img/DSC05223.webp",
-  "img/DSC05224.webp",
-  "img/DSC05225.webp",
-  "img/DSC05226.webp",
-  "img/DSC05227.webp",
-  "img/DSC05228.webp",
-  "img/DSC05229.webp",
-  "img/DSC05230.webp",
-  "img/DSC05231.webp"
-],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": ""
-},
-
-                            {
+    {
+      "id": "T3",
+      "name": "T3",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "194",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/DSC05182.webp",
+        "img/DSC05183.webp",
+        "img/DSC05184.webp",
+        "img/DSC05185.webp",
+        "img/DSC05186.webp",
+        "img/DSC05187.webp",
+        "img/DSC05188.webp",
+        "img/DSC05189.webp",
+        "img/DSC05190.webp"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": ""
+    },
+    {
       "id": "TR",
       "name": "TR",
       "state": "Sydney",
@@ -302,46 +255,21 @@
       "price": "10000",
       "sharepointUrl": "",
       "images": [
-        "img/IMG_8942.webp",
-        "img/IMG_8947.webp",
-        "img/IMG_8945.webp",
-        "img/IMG_8948.webp"
+        "img/DSC05250.webp",
+        "img/DSC05251.webp",
+        "img/DSC05252.webp",
+        "img/DSC05253.webp",
+        "img/DSC05254.webp",
+        "img/DSC05255.webp",
+        "img/DSC05256.webp",
+        "img/DSC05257.webp",
+        "img/DSC05258.webp",
+        "img/DSC05259.webp"
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": " Model"
     },
-{
-  "id": "M6",
-  "name": "M6",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "0110",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-"images": [
-  "img/DSC05233.webp",
-  "img/DSC05234.webp",
-  "img/DSC05235.webp",
-  "img/DSC05236.webp",
-  "img/DSC05237.webp",
-  "img/DSC05238.webp",
-  "img/DSC05239.webp",
-  "img/DSC05240.webp",
-  "img/DSC05241.webp",
-  "img/DSC05242.webp",
-  "img/DSC05243.webp",
-  "img/DSC05244.webp",
-  "img/DSC05245.webp",
-  "img/DSC05247.webp",
-  "img/DSC05248.webp"
-],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2017 Model"
-},
-
-                                {
+    {
       "id": "M3",
       "name": "M3",
       "state": "Sydney",
@@ -355,12 +283,25 @@
         "img/IMG_8942.webp",
         "img/IMG_8947.webp",
         "img/IMG_8945.webp",
-        "img/IMG_8948.webp"
+        "img/IMG_8948.webp",
+        "img/DSC05261.webp",
+        "img/DSC05263.webp",
+        "img/DSC05264.webp",
+        "img/DSC05265.webp",
+        "img/DSC05266.webp",
+        "img/DSC05267.webp",
+        "img/DSC05268.webp",
+        "img/DSC05269.webp",
+        "img/DSC05270.webp",
+        "img/DSC05271.webp",
+        "img/DSC05272.webp",
+        "img/DSC05273.webp",
+        "img/DSC05274.webp"
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2014 Model"
     },
-                                    {
+    {
       "id": "E51",
       "name": "E51 Base",
       "state": "Sydney",
@@ -374,97 +315,28 @@
         "img/IMG_8942.webp",
         "img/IMG_8947.webp",
         "img/IMG_8945.webp",
-        "img/IMG_8948.webp"
+        "img/IMG_8948.webp",
+        "img/DSC05276.webp",
+        "img/DSC05277.webp",
+        "img/DSC05278.webp",
+        "img/DSC05279.webp",
+        "img/DSC05280.webp",
+        "img/DSC05281.webp",
+        "img/DSC05282.webp",
+        "img/DSC05283.webp",
+        "img/DSC05284.webp",
+        "img/DSC05285.webp",
+        "img/DSC05286.webp",
+        "img/DSC05287.webp",
+        "img/DSC05288.webp",
+        "img/DSC05289.webp",
+        "img/DSC05290.webp",
+        "img/DSC05291.webp"
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": " Model"
     },
-{
-  "id": "TR",
-  "name": "TR",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "76041",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05250.webp",
-    "img/DSC05251.webp",
-    "img/DSC05252.webp",
-    "img/DSC05253.webp",
-    "img/DSC05254.webp",
-    "img/DSC05255.webp",
-    "img/DSC05256.webp",
-    "img/DSC05257.webp",
-    "img/DSC05258.webp",
-    "img/DSC05259.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": " Model"
-},
-{
-  "id": "M3",
-  "name": "M3",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "5622",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05261.webp",
-    "img/DSC05263.webp",
-    "img/DSC05264.webp",
-    "img/DSC05265.webp",
-    "img/DSC05266.webp",
-    "img/DSC05267.webp",
-    "img/DSC05268.webp",
-    "img/DSC05269.webp",
-    "img/DSC05270.webp",
-    "img/DSC05271.webp",
-    "img/DSC05272.webp",
-    "img/DSC05273.webp",
-    "img/DSC05274.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2014 Model"
-},
-{
-  "id": "E51",
-  "name": "E51 Base",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "2129",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05276.webp",
-    "img/DSC05277.webp",
-    "img/DSC05278.webp",
-    "img/DSC05279.webp",
-    "img/DSC05280.webp",
-    "img/DSC05281.webp",
-    "img/DSC05282.webp",
-    "img/DSC05283.webp",
-    "img/DSC05284.webp",
-    "img/DSC05285.webp",
-    "img/DSC05286.webp",
-    "img/DSC05287.webp",
-    "img/DSC05288.webp",
-    "img/DSC05289.webp",
-    "img/DSC05290.webp",
-    "img/DSC05291.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": " Model"
-},
-
-                    {
+    {
       "id": "M3",
       "name": "M3",
       "state": "Sydney",
@@ -483,7 +355,6 @@
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2015 Model"
     },
-
     {
       "id": "M6",
       "name": "M6 LPG",
@@ -498,13 +369,25 @@
         "img/IMG_8942.webp",
         "img/IMG_8947.webp",
         "img/IMG_8945.webp",
-        "img/IMG_8948.webp"
+        "img/IMG_8948.webp",
+        "img/DSC05133.webp",
+        "img/DSC05134.webp",
+        "img/DSC05135.webp",
+        "img/DSC05136.webp",
+        "img/DSC05137.webp",
+        "img/DSC05138.webp",
+        "img/DSC05139.webp",
+        "img/DSC05140.webp",
+        "img/DSC05141.webp",
+        "img/DSC05142.webp",
+        "img/DSC05143.webp",
+        "img/DSC05144.webp",
+        "img/DSC05145.webp"
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2013 Model"
     },
-
-        {
+    {
       "id": "M6 EB",
       "name": "M6 EB",
       "state": "Sydney",
@@ -514,74 +397,21 @@
       "powerType": "Not specified",
       "price": "10000",
       "sharepointUrl": "",
-"images": [
-  "img/DSC05123.webp",
-  "img/DSC05124.webp",
-  "img/DSC05125.webp",
-  "img/DSC05126.webp",
-  "img/DSC05127.webp",
-  "img/DSC05128.webp",
-  "img/DSC05129.webp",
-  "img/DSC05130.webp",
-  "img/DSC05131.webp"
-],
+      "images": [
+        "img/DSC05123.webp",
+        "img/DSC05124.webp",
+        "img/DSC05125.webp",
+        "img/DSC05126.webp",
+        "img/DSC05127.webp",
+        "img/DSC05128.webp",
+        "img/DSC05129.webp",
+        "img/DSC05130.webp",
+        "img/DSC05131.webp"
+      ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2015 Model"
     },
-{
-  "id": "M6",
-  "name": "M6 LPG",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "0192",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-"images": [
-  "img/DSC05133.webp",
-  "img/DSC05134.webp",
-  "img/DSC05135.webp",
-  "img/DSC05136.webp",
-  "img/DSC05137.webp",
-  "img/DSC05138.webp",
-  "img/DSC05139.webp",
-  "img/DSC05140.webp",
-  "img/DSC05141.webp",
-  "img/DSC05142.webp",
-  "img/DSC05143.webp",
-  "img/DSC05144.webp",
-  "img/DSC05145.webp"
-],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2013 Model"
-},
-{
-  "id": "M6 EB",
-  "name": "M6 EB",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "1269",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05123.webp",
-    "img/DSC05124.webp",
-    "img/DSC05125.webp",
-    "img/DSC05126.webp",
-    "img/DSC05127.webp",
-    "img/DSC05128.webp",
-    "img/DSC05129.webp",
-    "img/DSC05130.webp",
-    "img/DSC05131.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2015 Model"
-},
-
-        {
+    {
       "id": "M1",
       "name": "M1",
       "state": "Sydney",
@@ -600,8 +430,7 @@
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2019 Model"
     },
-
-        {
+    {
       "id": "M2",
       "name": "M2",
       "state": "Sydney",
@@ -620,8 +449,7 @@
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2019 Model"
     },
-
-        {
+    {
       "id": "M3",
       "name": "M3",
       "state": "Sydney",
@@ -631,44 +459,20 @@
       "powerType": "Not specified",
       "price": "10000",
       "sharepointUrl": "",
-"images": [
-  "img/DSC05077.webp",
-  "img/DSC05078.webp",
-  "img/DSC05079.webp",
-  "img/DSC05081.webp",
-  "img/DSC05082.webp",
-  "img/DSC05084.webp",
-  "img/DSC05085.webp",
-  "img/DSC05086.webp"
-],
+      "images": [
+        "img/DSC05077.webp",
+        "img/DSC05078.webp",
+        "img/DSC05079.webp",
+        "img/DSC05081.webp",
+        "img/DSC05082.webp",
+        "img/DSC05084.webp",
+        "img/DSC05085.webp",
+        "img/DSC05086.webp"
+      ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2011 Model"
     },
-{
-  "id": "M3",
-  "name": "M3",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "5081",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05077.webp",
-    "img/DSC05078.webp",
-    "img/DSC05079.webp",
-    "img/DSC05081.webp",
-    "img/DSC05082.webp",
-    "img/DSC05084.webp",
-    "img/DSC05085.webp",
-    "img/DSC05086.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2011 Model"
-},
-
-        {
+    {
       "id": "M5",
       "name": "M5",
       "state": "Sydney",
@@ -687,8 +491,7 @@
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2013 Model"
     },
-
-        {
+    {
       "id": "M3",
       "name": "M3",
       "state": "Sydney",
@@ -698,46 +501,21 @@
       "powerType": "Not specified",
       "price": "10000",
       "sharepointUrl": "",
-"images": [
-  "img/DSC05056.webp",
-  "img/DSC05057.webp",
-  "img/DSC05058.webp",
-  "img/DSC05059.webp",
-  "img/DSC05060.webp",
-  "img/DSC05061.webp",
-  "img/DSC05062.webp",
-  "img/DSC05063.webp",
-  "img/DSC05064.webp"
-],
+      "images": [
+        "img/DSC05056.webp",
+        "img/DSC05057.webp",
+        "img/DSC05058.webp",
+        "img/DSC05059.webp",
+        "img/DSC05060.webp",
+        "img/DSC05061.webp",
+        "img/DSC05062.webp",
+        "img/DSC05063.webp",
+        "img/DSC05064.webp"
+      ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2014 Model"
     },
-{
-  "id": "M3",
-  "name": "M3",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "0144",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05056.webp",
-    "img/DSC05057.webp",
-    "img/DSC05058.webp",
-    "img/DSC05059.webp",
-    "img/DSC05060.webp",
-    "img/DSC05061.webp",
-    "img/DSC05062.webp",
-    "img/DSC05063.webp",
-    "img/DSC05064.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2014 Model"
-},
-
-        {
+    {
       "id": "M3",
       "name": "M3",
       "state": "Sydney",
@@ -756,36 +534,34 @@
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2013 Model"
     },
-
-{
-  "id": "M3",
-  "name": "M3",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "4668",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05027.webp",
-    "img/DSC05028.webp",
-    "img/DSC05029.webp",
-    "img/DSC05033.webp",
-    "img/DSC05034.webp",
-    "img/DSC05035.webp",
-    "img/DSC05036.webp",
-    "img/DSC05037.webp",
-    "img/DSC05038.webp",
-    "img/DSC05039.webp",
-    "img/DSC05040.webp",
-    "img/DSC05041.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2008 Model"
-},
-
-        {
+    {
+      "id": "M3",
+      "name": "M3",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "4668",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/DSC05027.webp",
+        "img/DSC05028.webp",
+        "img/DSC05029.webp",
+        "img/DSC05033.webp",
+        "img/DSC05034.webp",
+        "img/DSC05035.webp",
+        "img/DSC05036.webp",
+        "img/DSC05037.webp",
+        "img/DSC05038.webp",
+        "img/DSC05039.webp",
+        "img/DSC05040.webp",
+        "img/DSC05041.webp"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2008 Model"
+    },
+    {
       "id": "M5",
       "name": "M5",
       "state": "Sydney",
@@ -799,193 +575,85 @@
         "img/IMG_8942.webp",
         "img/IMG_8947.webp",
         "img/IMG_8945.webp",
-        "img/IMG_8948.webp"
+        "img/IMG_8948.webp",
+        "img/DSC05020.webp",
+        "img/DSC05021.webp",
+        "img/DSC05022.webp",
+        "img/DSC05023.webp",
+        "img/DSC05024.webp",
+        "img/DSC05025.webp",
+        "img/DSC05026.webp",
+        "img/DSC05027.webp",
+        "img/DSC05028.webp",
+        "img/DSC05029.webp"
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2011 Model"
     },
-
-{
-  "id": "M6",
-  "name": "M6",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "1239",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05001.webp",
-    "img/DSC05002.webp",
-    "img/DSC05003.webp",
-    "img/DSC05005.webp",
-    "img/DSC05006.webp",
-    "img/DSC05007.webp",
-    "img/DSC05008.webp",
-    "img/DSC05009.webp",
-    "img/DSC05010.webp",
-    "img/DSC05011.webp",
-    "img/DSC05012.webp",
-    "img/DSC05013.webp",
-    "img/DSC05014.webp",
-    "img/DSC05015.webp",
-    "img/DSC05016.webp",
-    "img/DSC05017.webp",
-    "img/DSC05018.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2018 Model"
-},
-{
-  "id": "M3",
-  "name": "M3",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "4668",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05027.webp",
-    "img/DSC05028.webp",
-    "img/DSC05029.webp",
-    "img/DSC05033.webp",
-    "img/DSC05034.webp",
-    "img/DSC05035.webp",
-    "img/DSC05036.webp",
-    "img/DSC05037.webp",
-    "img/DSC05038.webp",
-    "img/DSC05039.webp",
-    "img/DSC05040.webp",
-    "img/DSC05041.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2008 Model"
-},
-{
-  "id": "M5",
-  "name": "M5",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "833",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05020.webp",
-    "img/DSC05021.webp",
-    "img/DSC05022.webp",
-    "img/DSC05023.webp",
-    "img/DSC05024.webp",
-    "img/DSC05025.webp",
-    "img/DSC05026.webp",
-    "img/DSC05027.webp",
-    "img/DSC05028.webp",
-    "img/DSC05029.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2011 Model"
-},
-   {
-  "id": "M1",
-  "name": "M1",
-  "state": "Sydney",
-  "category": "Scrubber",
-  "serial": "6696",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC04971.webp",
-    "img/DSC04972.webp",
-    "img/DSC04973.webp",
-    "img/DSC04974.webp",
-    "img/DSC04975.webp",
-    "img/DSC04976.webp",
-    "img/DSC04977.webp",
-    "img/DSC04979.webp",
-    "img/DSC04980.webp",
-    "img/DSC04981.webp",
-    "img/DSC04982.webp",
-    "img/DSC04983.webp",
-    "img/DSC04984.webp",
-    "img/DSC04985.webp",
-    "img/DSC04986.webp",
-    "img/DSC04987.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2019 Model"
-},
-{
-  "id": "M6",
-  "name": "M6",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "1239",
-  "hours": "NA",
-  "powerType": "Not specified",
-  "price": "10000",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC05001.webp",
-    "img/DSC05002.webp",
-    "img/DSC05003.webp",
-    "img/DSC05005.webp",
-    "img/DSC05006.webp",
-    "img/DSC05007.webp",
-    "img/DSC05008.webp",
-    "img/DSC05009.webp",
-    "img/DSC05010.webp",
-    "img/DSC05011.webp",
-    "img/DSC05012.webp",
-    "img/DSC05013.webp",
-    "img/DSC05014.webp",
-    "img/DSC05015.webp",
-    "img/DSC05016.webp",
-    "img/DSC05017.webp",
-    "img/DSC05018.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2018 Model"
-},
-  {
-    "id": "M1",
-    "name": "M1",
-    "state": "Sydney",
-    "category": "Scrubber",
-    "serial": "6696",
-    "hours": "NA",
-    "powerType": "Not specified",
-    "price": "10000",
-    "sharepointUrl": "",
-    "images": [
-      "img/DSC04971.webp",
-      "img/DSC04972.webp",
-      "img/DSC04973.webp",
-      "img/DSC04974.webp",
-      "img/DSC04975.webp",
-      "img/DSC04976.webp",
-      "img/DSC04977.webp",
-      "img/DSC04979.webp",
-      "img/DSC04980.webp",
-      "img/DSC04981.webp",
-      "img/DSC04982.webp",
-      "img/DSC04983.webp",
-      "img/DSC04984.webp",
-      "img/DSC04985.webp",
-      "img/DSC04986.webp",
-      "img/DSC04987.webp"
-    ],
-    "dateAdded": "2026-07-28T00:00:00.000Z",
-    "notes": "2019 Model"
-  },
-
-
-     {
+    {
+      "id": "M6",
+      "name": "M6",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "1239",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/DSC05001.webp",
+        "img/DSC05002.webp",
+        "img/DSC05003.webp",
+        "img/DSC05005.webp",
+        "img/DSC05006.webp",
+        "img/DSC05007.webp",
+        "img/DSC05008.webp",
+        "img/DSC05009.webp",
+        "img/DSC05010.webp",
+        "img/DSC05011.webp",
+        "img/DSC05012.webp",
+        "img/DSC05013.webp",
+        "img/DSC05014.webp",
+        "img/DSC05015.webp",
+        "img/DSC05016.webp",
+        "img/DSC05017.webp",
+        "img/DSC05018.webp"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2018 Model"
+    },
+    {
+      "id": "M1",
+      "name": "M1",
+      "state": "Sydney",
+      "category": "Scrubber",
+      "serial": "6696",
+      "hours": "NA",
+      "powerType": "Not specified",
+      "price": "10000",
+      "sharepointUrl": "",
+      "images": [
+        "img/DSC04971.webp",
+        "img/DSC04972.webp",
+        "img/DSC04973.webp",
+        "img/DSC04974.webp",
+        "img/DSC04975.webp",
+        "img/DSC04976.webp",
+        "img/DSC04977.webp",
+        "img/DSC04979.webp",
+        "img/DSC04980.webp",
+        "img/DSC04981.webp",
+        "img/DSC04982.webp",
+        "img/DSC04983.webp",
+        "img/DSC04984.webp",
+        "img/DSC04985.webp",
+        "img/DSC04986.webp",
+        "img/DSC04987.webp"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2019 Model"
+    },
+    {
       "id": "m_seedP3",
       "name": "P3",
       "state": "Queensland",
@@ -1001,14 +669,11 @@
         "img/IMG_8935.webp",
         "img/IMG_8940.webp",
         "img/IMG_8941.webp"
-
-
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
     },
-
-     {
+    {
       "id": "M1Queensland",
       "name": "M1",
       "state": "Queensland",
@@ -1024,14 +689,11 @@
         "img/IMG_8949.webp",
         "img/IMG_8954.webp",
         "img/IMG_8955.webp"
-
-
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
     },
-
-         {
+    {
       "id": "M3Qld",
       "name": "M3",
       "state": "Queensland",
@@ -1047,15 +709,11 @@
         "img/IMG_8958.webp",
         "img/IMG_8960.webp",
         "img/IMG_8961.webp"
-
-
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
     },
-
-
-             {
+    {
       "id": "M3Qld4",
       "name": "M3",
       "state": "Queensland",
@@ -1071,15 +729,11 @@
         "img/IMG_8974.webp",
         "img/IMG_8973.webp",
         "img/IMG_8977.webp"
-
-
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "M3 1201"
     },
-
-
-         {
+    {
       "id": "M3Qld1",
       "name": "M3",
       "state": "Queensland",
@@ -1095,14 +749,11 @@
         "img/IMG_8966.webp",
         "img/IMG_8963.webp",
         "img/IMG_8968.webp"
-
-
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
     },
-
-             {
+    {
       "id": "M3Qld2",
       "name": "M3",
       "state": "Queensland",
@@ -1117,13 +768,11 @@
         "img/IMG_8971.webp",
         "img/IMG_8972.webp",
         "img/IMG_8969.webp"
-
-
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "1150 Model. No Hour Meter"
     },
-        {
+    {
       "id": "m_seed02",
       "name": "M3",
       "state": "Sydney",
@@ -1198,35 +847,32 @@
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
     },
-
-
-{
-  "id": "m_seed04",
-  "name": "M1",
-  "state": "Sydney",
-  "category": "Sweeper",
-  "serial": "6545",
-  "hours": "",
-  "powerType": "Not specified",
-  "price": "",
-  "sharepointUrl": "",
-  "images": [
-    "img/DSC04993.webp",
-    "img/DSC04994.webp",
-    "img/DSC04995.webp",
-    "img/DSC04996.webp",
-    "img/DSC04997.webp",
-    "img/DSC04998.webp",
-    "img/DSC04999.webp",
-    "img/DSC05000.webp",
-    "img/DSC05001.webp",
-    "img/DSC05002.webp",
-    "img/DSC05003.webp"
-  ],
-  "dateAdded": "2026-07-28T00:00:00.000Z",
-  "notes": "2018 Model"
-},
-
+    {
+      "id": "m_seed04",
+      "name": "M1",
+      "state": "Sydney",
+      "category": "Sweeper",
+      "serial": "6545",
+      "hours": "",
+      "powerType": "Not specified",
+      "price": "",
+      "sharepointUrl": "",
+      "images": [
+        "img/DSC04993.webp",
+        "img/DSC04994.webp",
+        "img/DSC04995.webp",
+        "img/DSC04996.webp",
+        "img/DSC04997.webp",
+        "img/DSC04998.webp",
+        "img/DSC04999.webp",
+        "img/DSC05000.webp",
+        "img/DSC05001.webp",
+        "img/DSC05002.webp",
+        "img/DSC05003.webp"
+      ],
+      "dateAdded": "2026-07-28T00:00:00.000Z",
+      "notes": "2018 Model"
+    },
     {
       "id": "m_seed05",
       "name": "M3",
@@ -1587,7 +1233,6 @@
       "sharepointUrl": "",
       "images": [
         "img/mseedTR.webp"
-
       ],
       "notes": "Not working.",
       "dateAdded": "2026-07-29T01:09:57.114223Z"
