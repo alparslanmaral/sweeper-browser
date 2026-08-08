@@ -166,10 +166,6 @@
       "price": "10000",
       "sharepointUrl": "",
       "images": [
-        "img/IMG_8942.webp",
-        "img/IMG_8947.webp",
-        "img/IMG_8945.webp",
-        "img/IMG_8948.webp",
         "img/DSC05219.webp",
         "img/DSC05220.webp",
         "img/DSC05221.webp",
@@ -198,10 +194,6 @@
       "price": "10000",
       "sharepointUrl": "",
       "images": [
-        "img/IMG_8942.webp",
-        "img/IMG_8947.webp",
-        "img/IMG_8945.webp",
-        "img/IMG_8948.webp",
         "img/DSC05233.webp",
         "img/DSC05234.webp",
         "img/DSC05235.webp",
@@ -281,10 +273,6 @@
       "price": "10000",
       "sharepointUrl": "",
       "images": [
-        "img/IMG_8942.webp",
-        "img/IMG_8947.webp",
-        "img/IMG_8945.webp",
-        "img/IMG_8948.webp",
         "img/DSC05261.webp",
         "img/DSC05263.webp",
         "img/DSC05264.webp",
@@ -313,10 +301,7 @@
       "price": "10000",
       "sharepointUrl": "",
       "images": [
-        "img/IMG_8942.webp",
-        "img/IMG_8947.webp",
-        "img/IMG_8945.webp",
-        "img/IMG_8948.webp",
+
         "img/DSC05276.webp",
         "img/DSC05277.webp",
         "img/DSC05278.webp",
@@ -367,10 +352,6 @@
       "price": "10000",
       "sharepointUrl": "",
       "images": [
-        "img/IMG_8942.webp",
-        "img/IMG_8947.webp",
-        "img/IMG_8945.webp",
-        "img/IMG_8948.webp",
         "img/DSC05133.webp",
         "img/DSC05134.webp",
         "img/DSC05135.webp",
@@ -423,10 +404,16 @@
       "price": "10000",
       "sharepointUrl": "",
       "images": [
-        "img/IMG_8942.webp",
-        "img/IMG_8947.webp",
-        "img/IMG_8945.webp",
-        "img/IMG_8948.webp"
+        "img/DSC5112.webp",
+        "img/DSC5113.webp",
+        "img/DSC5114.webp",
+        "img/DSC5115.webp",
+        "img/DSC5116.webp",
+        "img/DSC5117.webp",
+        "img/DSC5118.webp",
+        "img/DSC5119.webp",
+        "img/DSC5120.webp",
+        "img/DSC5121.webp"
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2019 Model"
@@ -541,10 +528,17 @@
       "price": "10000",
       "sharepointUrl": "",
       "images": [
-        "img/IMG_8942.webp",
-        "img/IMG_8947.webp",
-        "img/IMG_8945.webp",
-        "img/IMG_8948.webp"
+        "img/DSC5044.webp",
+        "img/DSC5045.webp",
+        "img/DSC5046.webp",
+        "img/DSC5047.webp",
+        "img/DSC5048.webp",
+        "img/DSC5049.webp",
+        "img/DSC5050.webp",
+        "img/DSC5051.webp",
+        "img/DSC5052.webp",
+        "img/DSC5053.webp",
+        "img/DSC5054.webp"
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": "2013 Model"
@@ -948,20 +942,21 @@
       "price": "",
       "sharepointUrl": "",
       "images": [
-        "img/m_seed07_1.webp",
-        "img/m_seed07_2.webp",
-        "img/m_seed07_3.webp",
-        "img/m_seed07_4.webp",
-        "img/m_seed07_5.webp",
-        "img/m_seed07_6.webp",
-        "img/m_seed07_7.webp",
-        "img/m_seed07_8.webp",
-        "img/m_seed07_9.webp",
-        "img/m_seed07_10.webp",
-        "img/m_seed07_11.webp",
-        "img/m_seed07_12.webp",
-        "img/m_seed07_13.webp",
-        "img/m_seed07_14.webp"
+        "img/DSC04823.webp",
+        "img/DSC04824.webp",
+        "img/DSC04825.webp",
+        "img/DSC04826.webp",
+        "img/DSC04827.webp",
+        "img/DSC04828.webp",
+        "img/DSC04829.webp",
+        "img/DSC04830.webp",
+        "img/DSC04831.webp",
+        "img/DSC04832.webp",
+        "img/DSC04833.webp",
+        "img/DSC04834.webp",
+        "img/DSC04835.webp",
+        "img/DSC04836.webp"
+
       ],
       "dateAdded": "2026-07-28T00:00:00.000Z",
       "notes": ""
